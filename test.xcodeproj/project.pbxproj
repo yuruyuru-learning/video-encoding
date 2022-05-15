@@ -13,6 +13,7 @@
 		BBD2AF672830804900965DF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBD2AF652830804900965DF7 /* Main.storyboard */; };
 		BBD2AF692830804A00965DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBD2AF682830804A00965DF7 /* Assets.xcassets */; };
 		BBD2AF6C2830804A00965DF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBD2AF6A2830804A00965DF7 /* LaunchScreen.storyboard */; };
+		BBD2AF742830811D00965DF7 /* parapara.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BBD2AF732830811D00965DF7 /* parapara.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BBD2AF682830804A00965DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BBD2AF6B2830804A00965DF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BBD2AF6D2830804A00965DF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBD2AF732830811D00965DF7 /* parapara.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = parapara.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BBD2AF5F2830804900965DF7 /* AppDelegate.swift */,
 				BBD2AF612830804900965DF7 /* SceneDelegate.swift */,
 				BBD2AF632830804900965DF7 /* ViewController.swift */,
+				BBD2AF732830811D00965DF7 /* parapara.mp4 */,
 				BBD2AF652830804900965DF7 /* Main.storyboard */,
 				BBD2AF682830804A00965DF7 /* Assets.xcassets */,
 				BBD2AF6A2830804A00965DF7 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 				BBD2AF6C2830804A00965DF7 /* LaunchScreen.storyboard in Resources */,
 				BBD2AF692830804A00965DF7 /* Assets.xcassets in Resources */,
 				BBD2AF672830804900965DF7 /* Main.storyboard in Resources */,
+				BBD2AF742830811D00965DF7 /* parapara.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
